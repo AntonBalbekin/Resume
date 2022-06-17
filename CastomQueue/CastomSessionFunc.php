@@ -33,7 +33,7 @@ class CastomSessionFunc
 
      public function SendLia($user_id,$Message,$UserName=null,$contactID=null)
     {
-        $key='UMvaTUm5WhIEWYE5txmwzrcrAyJoBpUVXEGFdgexHbM8tDSBL4RnJ8sFm4UucMG1';
+        $key='Usadsdaweqweqweqweqwweqw';
         $url="https://app.lia.chat/api/v1/handling/event?key=$key";
         
         if(!empty($Message['message']) && empty($Message['file']))
