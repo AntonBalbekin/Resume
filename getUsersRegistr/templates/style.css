@@ -1,0 +1,141 @@
+.content-go-back{
+    width: 228px;
+    height: 32px;
+    margin-left: 68px;
+    margin-top: 48px;
+    background: rgba(30, 34, 46, 0.04);
+    border-radius: 8px;
+}
+.content-go-back>img{
+    width: 7px;
+    height: 12px;
+    margin-top: 8px;
+    margin-left: 18px;
+}
+.content-go-back>a{
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 4px;
+    margin-left: 15px;
+    color: #1E222E;
+}
+.card-title{
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 40px;
+    color: #1E222E;
+    margin-left: 68px;
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+.client_info_head{
+    border: 1px solid #CCCFDE;
+    border-radius: 16px;
+    margin-left: 68px;
+    margin-right: 68px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.client_info-blok{
+    margin-top: 24px;
+    margin-bottom: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+}
+.client_info-title{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #6E748C;
+}
+.client_info-info{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    color: #1E222E;
+}
+.grid_block{
+    margin-left: 68px;
+}
+.add_bals{
+    margin-left: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 4px;
+    margin-left: 15px;
+    color: #1E222E;
+    background: rgba(30, 34, 46, 0.04);
+    border-radius: 8px;
+    border: none;
+    height: 32px;
+    margin-top: 29px;
+}
+
+.popup-info{
+    margin-left: 56px;
+}
+
+.HeadPopup{
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #1E222E;
+    margin-top: 56px;
+    margin-bottom: 24px;
+}
+.popup-info_text{
+    height: 84px;
+    border-left:4px solid #50287D;
+
+}
+.popup-info_text p{
+    padding-left: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    color: #1E222E;
+}
+
+.popup-info_text_danger{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    padding-top: 15px;
+}
+.popup-info_text_info{
+    padding-top: 8px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    
+}
+#petition_form{
+    margin-top: 32px;
+}
+
+#selectPetition{
+    width: 414px;
+}
+
+#sumPetition{
+    margin-left: 16px;
+    width: 414px;
+}
+
+#comment-petition{
+    margin-top: 16px;
+    width: 844px;
+    height: 86px;
+}
